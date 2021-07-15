@@ -1,5 +1,5 @@
-#include "Collision_detector.h"
-#include "TemplatedFunc.hpp"
+#include "OBB.h"
+#include "CommonFunctions.hpp"
 
 using namespace JC::Math;
 

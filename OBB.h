@@ -1,5 +1,5 @@
 #pragma once
-#include "TemplatedFunc.hpp"
+#include "CommonFunctions.hpp"
 #include <iostream>
 #include <vector>
 namespace jc_m = JC::Math;
